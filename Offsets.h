@@ -4,7 +4,7 @@
 const uintptr_t GW = 0x759f77c;
 const uintptr_t GN = 0x785ee04;
 const uintptr_t UWORLD = 4832052;
-const uintptr_t GNAMES = 2881160;
+const uintptr_t GNAMES = 1950892;
 
 /*** Player AActor ***/
 const uintptr_t PlayerName = 0x648;
